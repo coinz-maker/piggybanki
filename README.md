@@ -1,2 +1,0 @@
-# piggybanki
-PiggyBank datas

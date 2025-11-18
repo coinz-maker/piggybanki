@@ -1,0 +1,28 @@
+{
+  "name": "Ryan Piggy #9",
+  "description": "Piggy by PiggyBank",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/8.png",
+  "edition": 8,
+  "date": 1763442638999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Other"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
