@@ -1,7 +1,8 @@
 {
   "name": "Piggy by PiggyBank",
   "description": "Piggy by PiggyBank - эксклюзивная коллекция из 550 уникальных NFT, каждая из которых представляет милого маскота бренда PiggyBank - свинку Piggy. NFT дают владельцам регулярные выплаты дивидендов в TON. Подробности механики вознаграждений, распределения и расписания выплат доступны в нашем телеграмм канале.\nPiggy by PiggyBank is an exclusive collection of 550 unique NFTs, each representing the brand’s cute mascot, Piggy the pig. The NFTs provide their owners with regular dividend payouts in TON. Details about the reward mechanics, distribution, and payout schedule are available on our Telegram channel.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/avatar.mp4",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/avatar.png",
   "cover_image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/banner.png",
   "social_links": ["https://t.me/ItsPiggyBank", "https://t.me/ChatPiggyBank", "https://x.com/ItsPiggyBank_"]
 }
+
