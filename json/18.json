@@ -1,17 +1,17 @@
 {
-  "name": "Piggy Wonka #5",
+  "name": "Pirate Piggy #19",
   "description": "Piggy by PiggyBank",
-  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/4.png",
-  "edition": 4,
-  "date": 1763551301999,
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/18.png",
+  "edition": 18,
+  "date": 1763551305999,
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     },
     {
       "trait_type": "Color",
-      "value": "Red"
+      "value": "Black"
     },
     {
       "trait_type": "Symbol",

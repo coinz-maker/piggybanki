@@ -1,17 +1,17 @@
 {
-  "name": "Piggy Wonka #5",
+  "name": "One-Punch-Pig #20",
   "description": "Piggy by PiggyBank",
-  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/4.png",
-  "edition": 4,
-  "date": 1763551301999,
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/19.png",
+  "edition": 19,
+  "date": 1763551305999,
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     },
     {
       "trait_type": "Color",
-      "value": "Red"
+      "value": "Yellow"
     },
     {
       "trait_type": "Symbol",
