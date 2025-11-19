@@ -1,9 +1,9 @@
 {
-  "name": "Piggy Mozart #8",
+  "name": "Piggy Tesla #13",
   "description": "Piggy by PiggyBank",
-  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/7.png",
-  "edition": 7,
-  "date": 1763542065999,
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/12.png",
+  "edition": 12,
+  "date": 1763542067999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -11,7 +11,7 @@
     },
     {
       "trait_type": "Color",
-      "value": "Red"
+      "value": "Grey"
     },
     {
       "trait_type": "Symbol",
