@@ -1,9 +1,9 @@
 {
-  "name": "Piggy CZ #10",
+  "name": "Pasha Podvokhov #11",
   "description": "Piggy by PiggyBank",
-  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/9.png",
-  "edition": 9,
-  "date": 1763529323999,
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/10.png",
+  "edition": 10,
+  "date": 1763537912999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -11,7 +11,7 @@
     },
     {
       "trait_type": "Color",
-      "value": "Golden"
+      "value": "Purple"
     },
     {
       "trait_type": "Symbol",
