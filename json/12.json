@@ -1,9 +1,9 @@
 {
   "name": "Piggy Tesla #13",
-  "description": "Legendary Piggy Tesla #13 on Grey with Other symbol"
+  "description": "Legendary Piggy Tesla #13 on Grey with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/12.png",
   "edition": 12,
-  "date": 1765011126999,
+  "date": 1765011605999,
   "attributes": [
     {
       "trait_type": "Rarity",

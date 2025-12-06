@@ -1,9 +1,9 @@
 {
   "name": "Arni Piggy #12",
-  "description": "Legendary Arni Piggy #12 on Grey with Other symbol"
+  "description": "Legendary Arni Piggy #12 on Grey with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/11.png",
   "edition": 11,
-  "date": 1765011126999,
+  "date": 1765011605999,
   "attributes": [
     {
       "trait_type": "Rarity",
