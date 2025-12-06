@@ -1,8 +1,9 @@
 {
   "name": "Piggy Trump #4",
+  "description": "Legendary Piggy Trump #4 on Red with Other"
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/3.png",
   "edition": 3,
-  "date": 1765009346999,
+  "date": 1765009752999,
   "attributes": [
     {
       "trait_type": "Rarity",

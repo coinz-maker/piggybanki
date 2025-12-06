@@ -1,8 +1,9 @@
 {
   "name": "Jack Piggy #2",
+  "description": "Legendary Jack Piggy #2 on Brown with Other"
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/1.png",
   "edition": 1,
-  "date": 1765009345999,
+  "date": 1765009752999,
   "attributes": [
     {
       "trait_type": "Rarity",

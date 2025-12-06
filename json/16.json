@@ -1,8 +1,9 @@
 {
   "name": "MiniPiggy #17",
+  "description": "Rare MiniPiggy #17 on Yellow with Other"
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/16.png",
   "edition": 16,
-  "date": 1765009349999,
+  "date": 1765009757999,
   "attributes": [
     {
       "trait_type": "Rarity",

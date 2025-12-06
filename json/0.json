@@ -1,8 +1,9 @@
 {
   "name": "Piggy Musk #1",
+  "description": "Legendary Piggy Musk #1 on Black with Other"
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/0.png",
   "edition": 0,
-  "date": 1765009345999,
+  "date": 1765009751999,
   "attributes": [
     {
       "trait_type": "Rarity",
