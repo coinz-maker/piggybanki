@@ -1,9 +1,9 @@
 {
   "name": "Piggy Musk #1",
-  "description": "Legendary Piggy Musk #1 on Black with Other symbol",
+  "description": "Legendary Piggy Musk on Black with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/0.png",
   "edition": 0,
-  "date": 1765011599999,
+  "date": 1765683744999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -28,10 +28,10 @@
 },
 {
   "name": "Jack Piggy #2",
-  "description": "Legendary Jack Piggy #2 on Brown with Other symbol",
+  "description": "Legendary Jack Piggy on Brown with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/1.png",
   "edition": 1,
-  "date": 1765011599999,
+  "date": 1765683744999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -56,10 +56,10 @@
 },
 {
   "name": "Piggy Durov #3",
-  "description": "Legendary Piggy Durov #3 on Black with Other symbol",
+  "description": "Legendary Piggy Durov on Black with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/2.png",
   "edition": 2,
-  "date": 1765011599999,
+  "date": 1765683745999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -84,10 +84,10 @@
 },
 {
   "name": "Piggy Trump #4",
-  "description": "Legendary Piggy Trump #4 on Red with Other symbol",
+  "description": "Legendary Piggy Trump on Red with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/3.png",
   "edition": 3,
-  "date": 1765011600999,
+  "date": 1765683745999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -112,10 +112,10 @@
 },
 {
   "name": "Piggy Wonka #5",
-  "description": "Legendary Piggy Wonka #5 on Red with Other symbol",
+  "description": "Legendary Piggy Wonka on Red with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/4.png",
   "edition": 4,
-  "date": 1765011600999,
+  "date": 1765683745999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -140,10 +140,10 @@
 },
 {
   "name": "Piggy Of Wall Street #6",
-  "description": "Legendary Piggy Of Wall Street #6 on Blue with Other symbol",
+  "description": "Legendary Piggy Of Wall Street on Blue with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/5.png",
   "edition": 5,
-  "date": 1765011600999,
+  "date": 1765683746999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -168,10 +168,10 @@
 },
 {
   "name": "Mr.Piggy #7",
-  "description": "Legendary Mr.Piggy #7 on Blue with Other symbol",
+  "description": "Legendary Mr.Piggy on Blue with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/6.png",
   "edition": 6,
-  "date": 1765011601999,
+  "date": 1765683746999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -196,10 +196,10 @@
 },
 {
   "name": "Piggy Mozart #8",
-  "description": "Legendary Piggy Mozart #8 on Red with Other symbol",
+  "description": "Legendary Piggy Mozart on Red with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/7.png",
   "edition": 7,
-  "date": 1765011602999,
+  "date": 1765683746999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -224,10 +224,10 @@
 },
 {
   "name": "Ryan Piggy #9",
-  "description": "Legendary Ryan Piggy #9 on Blue with Other symbol",
+  "description": "Legendary Ryan Piggy on Blue with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/8.png",
   "edition": 8,
-  "date": 1765011603999,
+  "date": 1765683747999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -252,10 +252,10 @@
 },
 {
   "name": "Piggy CZ #10",
-  "description": "Legendary Piggy CZ #10 on Golden with Other symbol",
+  "description": "Legendary Piggy CZ on Golden with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/9.png",
   "edition": 9,
-  "date": 1765011604999,
+  "date": 1765683747999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -280,10 +280,10 @@
 },
 {
   "name": "Pasha Podvokhov #11",
-  "description": "Legendary Pasha Podvokhov #11 on Purple with Other symbol",
+  "description": "Legendary Pasha Podvokhov on Purple with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/10.png",
   "edition": 10,
-  "date": 1765011604999,
+  "date": 1765683747999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -308,10 +308,10 @@
 },
 {
   "name": "Arni Piggy #12",
-  "description": "Legendary Arni Piggy #12 on Grey with Other symbol",
+  "description": "Legendary Arni Piggy on Grey with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/11.png",
   "edition": 11,
-  "date": 1765011605999,
+  "date": 1765683748999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -336,10 +336,10 @@
 },
 {
   "name": "Piggy Tesla #13",
-  "description": "Legendary Piggy Tesla #13 on Grey with Other symbol",
+  "description": "Legendary Piggy Tesla on Grey with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/12.png",
   "edition": 12,
-  "date": 1765011605999,
+  "date": 1765683748999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -364,10 +364,10 @@
 },
 {
   "name": "Piggy Buffet #14",
-  "description": "Legendary Piggy Buffet #14 on Grey with Other symbol",
+  "description": "Legendary Piggy Buffet on Grey with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/13.png",
   "edition": 13,
-  "date": 1765011606999,
+  "date": 1765683748999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -392,10 +392,10 @@
 },
 {
   "name": "Piggy Morpheus #15",
-  "description": "Legendary Piggy Morpheus #15 on Black with Other symbol",
+  "description": "Legendary Piggy Morpheus on Black with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/14.png",
   "edition": 14,
-  "date": 1765011606999,
+  "date": 1765683749999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -420,10 +420,10 @@
 },
 {
   "name": "Piggy Punk #16",
-  "description": "Rare Piggy Punk #16 on Black with Other symbol",
+  "description": "Rare Piggy Punk on Black with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/15.png",
   "edition": 15,
-  "date": 1765011607999,
+  "date": 1765683749999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -448,10 +448,10 @@
 },
 {
   "name": "MiniPiggy #17",
-  "description": "Rare MiniPiggy #17 on Yellow with Other symbol",
+  "description": "Rare MiniPiggy on Yellow with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/16.png",
   "edition": 16,
-  "date": 1765011607999,
+  "date": 1765683749999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -476,10 +476,10 @@
 },
 {
   "name": "Centurion Piggy #18",
-  "description": "Rare Centurion Piggy #18 on Brown with Other symbol",
+  "description": "Rare Centurion Piggy on Brown with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/17.png",
   "edition": 17,
-  "date": 1765011607999,
+  "date": 1765683750999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -504,10 +504,10 @@
 },
 {
   "name": "Pirate Piggy #19",
-  "description": "Rare Pirate Piggy #19 on Black with Other symbol",
+  "description": "Rare Pirate Piggy on Black with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/18.png",
   "edition": 18,
-  "date": 1765011608999,
+  "date": 1765683750999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -532,10 +532,10 @@
 },
 {
   "name": "One-Punch-Pig #20",
-  "description": "Rare One-Punch-Pig #20 on Yellow with Other symbol",
+  "description": "Rare One-Punch-Pig on Yellow with Other symbol",
   "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/19.png",
   "edition": 19,
-  "date": 1765011608999,
+  "date": 1765683750999,
   "attributes": [
     {
       "trait_type": "Rarity",
