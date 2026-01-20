@@ -1,0 +1,28 @@
+{
+  "name": "Crown Piggy #238",
+  "description": "Common Crown Piggy on Grey with Clover symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/237.png",
+  "edition": 237,
+  "date": 1768882750999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Clover"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

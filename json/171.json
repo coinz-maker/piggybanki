@@ -1,0 +1,28 @@
+{
+  "name": "Hood Piggy #172",
+  "description": "Common Hood Piggy on Blue with Plane symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/171.png",
+  "edition": 171,
+  "date": 1768882729999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Plane"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

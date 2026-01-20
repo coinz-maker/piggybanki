@@ -1,0 +1,28 @@
+{
+  "name": "Flower Crown Piggy #285",
+  "description": "Common Flower Crown Piggy on Grey with Diamond symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/284.png",
+  "edition": 284,
+  "date": 1768882764999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Diamond"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

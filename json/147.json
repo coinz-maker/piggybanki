@@ -1,0 +1,28 @@
+{
+  "name": "Flat Cap Piggy #148",
+  "description": "Common Flat Cap Piggy on Purple with Coin symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/147.png",
+  "edition": 147,
+  "date": 1768882722999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Coin"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

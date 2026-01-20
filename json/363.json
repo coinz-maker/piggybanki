@@ -1,0 +1,28 @@
+{
+  "name": "Sunglasses Piggy #364",
+  "description": "Common Sunglasses Piggy on Blue with Clover symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/363.png",
+  "edition": 363,
+  "date": 1768882788999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Clover"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Cowboy Hat Piggy #408",
+  "description": "Common Cowboy Hat Piggy on Black with Piglet symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/407.png",
+  "edition": 407,
+  "date": 1768882801999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Piglet"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

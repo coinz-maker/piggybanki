@@ -1,0 +1,28 @@
+{
+  "name": "Flower Crown Piggy #296",
+  "description": "Common Flower Crown Piggy on Purple with Piglet symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/295.png",
+  "edition": 295,
+  "date": 1768882767999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Piglet"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

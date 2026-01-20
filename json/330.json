@@ -1,0 +1,28 @@
+{
+  "name": "Christmas Hat Piggy #331",
+  "description": "Common Christmas Hat Piggy on Golden with Piglet symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/330.png",
+  "edition": 330,
+  "date": 1768882777999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Piglet"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

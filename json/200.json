@@ -1,0 +1,28 @@
+{
+  "name": "Hood Piggy #201",
+  "description": "Common Hood Piggy on Violet with Diamond symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/200.png",
+  "edition": 200,
+  "date": 1768882738999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Diamond"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

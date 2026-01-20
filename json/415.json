@@ -1,0 +1,28 @@
+{
+  "name": "Cowboy Hat Piggy #416",
+  "description": "Common Cowboy Hat Piggy on Blue with Rocket symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/415.png",
+  "edition": 415,
+  "date": 1768882804999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Rocket"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

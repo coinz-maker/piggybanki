@@ -1,0 +1,28 @@
+{
+  "name": "Sunglasses Piggy #398",
+  "description": "Common Sunglasses Piggy on Violet with Star symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/397.png",
+  "edition": 397,
+  "date": 1768882798999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Star"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

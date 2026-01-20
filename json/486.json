@@ -1,0 +1,28 @@
+{
+  "name": "Cap Piggy #487",
+  "description": "Common Cap Piggy on Grey with Plane symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/486.png",
+  "edition": 486,
+  "date": 1768882826999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Plane"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

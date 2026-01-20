@@ -1,0 +1,28 @@
+{
+  "name": "Christmas Hat Piggy #308",
+  "description": "Common Christmas Hat Piggy on Black with Clover symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/307.png",
+  "edition": 307,
+  "date": 1768882771999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Clover"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

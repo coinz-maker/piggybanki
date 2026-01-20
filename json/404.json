@@ -1,0 +1,28 @@
+{
+  "name": "Cowboy Hat Piggy #405",
+  "description": "Common Cowboy Hat Piggy on Black with Star symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/404.png",
+  "edition": 404,
+  "date": 1768882800999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Star"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

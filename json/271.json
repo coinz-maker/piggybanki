@@ -1,0 +1,28 @@
+{
+  "name": "Flower Crown Piggy #272",
+  "description": "Common Flower Crown Piggy on Green with Star symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/271.png",
+  "edition": 271,
+  "date": 1768882760999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Star"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Cowboy Hat Piggy #418",
+  "description": "Common Cowboy Hat Piggy on Green with Diamond symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/417.png",
+  "edition": 417,
+  "date": 1768882804999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Diamond"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

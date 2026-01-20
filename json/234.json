@@ -1,0 +1,28 @@
+{
+  "name": "Crown Piggy #235",
+  "description": "Common Crown Piggy on Golden with Plane symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/234.png",
+  "edition": 234,
+  "date": 1768882749999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Plane"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

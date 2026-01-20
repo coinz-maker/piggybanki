@@ -1,0 +1,28 @@
+{
+  "name": "Christmas Hat Piggy #334",
+  "description": "Common Christmas Hat Piggy on Grey with Diamond symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/333.png",
+  "edition": 333,
+  "date": 1768882778999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Diamond"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

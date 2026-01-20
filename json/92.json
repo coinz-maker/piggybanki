@@ -1,0 +1,28 @@
+{
+  "name": "Ushanka Piggy #93",
+  "description": "Common Ushanka Piggy on Grey with Piglet symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/92.png",
+  "edition": 92,
+  "date": 1768882705999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Piglet"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

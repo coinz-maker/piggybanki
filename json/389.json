@@ -1,0 +1,28 @@
+{
+  "name": "Sunglasses Piggy #390",
+  "description": "Common Sunglasses Piggy on Purple with Diamond symbol",
+  "image": "https://raw.githubusercontent.com/coinz-maker/piggybanki/refs/heads/main/imgs/389.png",
+  "edition": 389,
+  "date": 1768882795999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Diamond"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "$PiggyBank",
+        "uri": "https://t.me/ItsPiggyBank"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}
